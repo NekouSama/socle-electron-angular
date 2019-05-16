@@ -1,3 +1,10 @@
+## Quick start
+
+git clone
+cd
+npm install
+electron-build
+
 # AngularElectron
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.9.
