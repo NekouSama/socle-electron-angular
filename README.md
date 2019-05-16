@@ -3,7 +3,7 @@
 git clone
 cd
 npm install
-electron-build
+npm run electron-build
 
 # AngularElectron
 
